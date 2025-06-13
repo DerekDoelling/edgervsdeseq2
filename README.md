@@ -81,13 +81,18 @@ plotMD(qlf)
 ## Normalization Results
 
 ### Before
-!before
+
+![before](before.png)
+
 
 ### EdgeR
-!edger
+
+![edger](edger.png)
+
 
 ### DESeq2
-!before
+
+![deseq2](deseq2.png)
 
 
 ## Summary and Final Thoughts
