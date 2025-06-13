@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "deseq2vsedger"
 format: html
@@ -100,3 +101,6 @@ plotMD(qlf)
   In summary, DESeq2 and edgeR each have strengths tailored to different experimental setups. DESeq2 is excellent for smaller, simpler analyses and provides an accessible entry point for newcomers. EdgeR is better suited for larger, more complicated datasets and users who want granular control.
 In practice, many researchers run both tools and compare results to gain confidence in their findings. Ultimately, the choice should be guided by your experimental design, sample size, and specific biological questions.
 If you are just getting started with RNA-seq differential expression,it is recommended beginning with DESeq2. However, if your study involves multi-factor designs or you want to maximize flexibility, then edgeR is a powerful tool to master. Both tools are battle-tested and supported by extensive documentation and user communities, so you can’t go wrong with either. The best approach is to understand their differences and choose the one that aligns with your project's needs.
+=======
+!before.png
+>>>>>>> 4cb1d015841b3291cf876938ad879b0113db6458
