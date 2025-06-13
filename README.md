@@ -52,6 +52,8 @@ head(res[order(res$padj), ])
 Plot MA-plot
 plotMA(res, main="DESeq2", ylim=c(-5,5))
 
+-----------------------------------------------------------------
+
 library(edgeR)
 Create DGEList object
 dge <- DGEList(counts=counts, group=coldata$condition)
